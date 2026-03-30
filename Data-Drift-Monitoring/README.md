@@ -48,8 +48,8 @@ Modular programming in C
 
 📁 Project Structure 
 data-drift-monitoring-c/ 
-│── drift_monitor.c
-│── drift_log.txt # Auto-generated after first run ── README.md
+- drift_monitor.c
+- drift_log.txt # Auto-generated after first run ── README.md
 
 ⚙️ How to Compile & Run Ensure you have GCC installed.
 
