@@ -50,11 +50,12 @@ Linked Lists
 File Handling
 Hashing
 Dynamic Memory Allocation
-📁 File Structure Bus-Management-System/ ├── bus.c
-├── buses.dat
-├── bookings.dat
-├── bookings.csv
-└── README.md
+📁 File Structure Bus-Management-System
+- bus.c
+- buses.dat
+- bookings.dat
+-  bookings.csv
+-  README.md
 
 ▶️ How to Compile and Run
 
