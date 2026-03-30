@@ -49,9 +49,9 @@ This project demonstrates the following C programming concepts:
  📁 Project Structure
 
 advanced-rps-game-c/
-│── rps_game.c       # Main source file (single-file project)
-│── score.txt        # Auto-generated file to store player statistics
-│── README.md        # Project documentation
+- rps_game.c       # Main source file (single-file project)
+- score.txt        # Auto-generated file to store player statistics
+- README.md        # Project documentation
 
 
 
