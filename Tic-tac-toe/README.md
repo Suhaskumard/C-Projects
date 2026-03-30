@@ -62,10 +62,9 @@ The project demonstrates strong fundamentals in **C programming, recursion, algo
 ## 📁 Project Structure
 
 tic-tac-toe-minimax-c/
-│
-├── ttt_pro_minimax.c
-├── leaderboard.txt      (auto-generated)
-└── README.md
+- ttt_pro_minimax.c
+- leaderboard.txt      (auto-generated)
+- README.md
 
 
 > The `leaderboard.txt` file is created automatically after the first tournament.
