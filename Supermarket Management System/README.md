@@ -59,8 +59,11 @@ The system uses **file handling** to store product and sales data persistently a
 supermarket-management-system-c/
 │
 ├── supermarket.c
+│
 ├── products.dat        (auto-generated)
+│
 ├── sales.dat           (auto-generated)
+│
 └── README.md
 
 
