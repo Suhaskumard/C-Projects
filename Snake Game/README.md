@@ -58,10 +58,9 @@ The project demonstrates strong understanding of **C programming, game logic, da
 ## 📁 Project Structure
 
 snake-game-c/
-│
-├── main.c
-├── highscore.txt    (auto-generated)
-└── README.md
+- main.c
+- highscore.txt    (auto-generated)
+- README.md
 
 > The `highscore.txt` file is created automatically after the first run.
 
