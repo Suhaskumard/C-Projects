@@ -65,6 +65,4 @@ gcc library.c -o library
 
 ---
 
-## 👨‍💻 Author
 
-Suhas Kumar
