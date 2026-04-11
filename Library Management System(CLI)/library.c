@@ -10,7 +10,7 @@ struct Book {
     int isIssued;
 };
  
-struct Book library[MAX];
+struct Book library[MAX]; 
 int count = 0;
  
 // Add Book
