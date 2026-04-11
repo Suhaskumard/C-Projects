@@ -9,7 +9,7 @@ struct Book {
     char author[50];
     int isIssued;
 };
-
+ 
 struct Book library[MAX];
 int count = 0;
  
