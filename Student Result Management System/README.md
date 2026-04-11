@@ -128,14 +128,4 @@ Grade: B
 
 ---
 
-## 👨‍💻 Author
 
-Developed as a mini-project for learning C programming concepts like structures and file handling.
-
----
-
-## 📚 References
-
-* C Programming Books
-* GeeksforGeeks
-* TutorialsPoint
