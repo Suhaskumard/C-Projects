@@ -8,7 +8,7 @@ The project demonstrates strong understanding of **C programming, game logic, da
 
 
 ## 🎯 Objectives
-- Develop a real-time terminal-based game in C
+- Develop a real-time terminal-based game in C 
 - Implement dynamic snake movement and growth logic
 - Introduce increasing difficulty levels
 - Store and retrieve persistent high scores using file handling
