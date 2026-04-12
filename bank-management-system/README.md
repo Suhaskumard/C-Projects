@@ -12,7 +12,7 @@ Simple yet **secure** Banking System in C. Users can create accounts, deposit, w
 
 ## 🔒 Security Improvements
 - **Buffer overflow fixed**: fgets for names (<50 chars)
-- **PIN authentication**: 4-digit PIN for sensitive ops
+- **PIN authentication**: 4-digit PIN for sensitive ops 
 - **Input validation**: Positive acc#, amounts; no negatives
 - **Unique accounts**: Duplicate acc# rejected
 - **Array bounds**: Max 100 accounts enforced
