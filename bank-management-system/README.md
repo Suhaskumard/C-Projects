@@ -4,7 +4,7 @@
 Simple yet **secure** Banking System in C. Users can create accounts, deposit, withdraw, check balances with **PIN authentication**.
 
 ## 🚀 Features
-- ✅ Create new bank account (unique acc#, 4-digit PIN)
+- ✅ Create new bank account (unique acc#, 4-digit PIN) 
 - ✅ Secure deposit/withdraw with PIN auth
 - ✅ Check balance (PIN protected)
 - ✅ Display all accounts (admin view)
