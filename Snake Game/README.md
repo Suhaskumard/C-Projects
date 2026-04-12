@@ -21,7 +21,7 @@ The project demonstrates strong understanding of **C programming, game logic, da
 - Real-time snake movement using keyboard input
 - Snake grows after eating food
 - Collision detection (self-collision)
-- Continuous gameplay loop with smooth updates
+- Continuous gameplay loop with smooth updates 
 
 ### ⚡ Difficulty System
 - Speed increases as score grows
