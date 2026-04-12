@@ -56,4 +56,4 @@ gcc bank.c -o bank
 - Dynamic accounts
 - Encryption
 
-👨‍💻 **Suhas Kumar** | Secure C Dev
+
