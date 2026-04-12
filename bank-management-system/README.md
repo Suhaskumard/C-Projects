@@ -17,7 +17,7 @@ Simple yet **secure** Banking System in C. Users can create accounts, deposit, w
 - **Unique accounts**: Duplicate acc# rejected
 - **Array bounds**: Max 100 accounts enforced
 
-## 🛠️ Technologies
+## 🛠️ Technologies 
 - C + stdio/stdlib/string.h
 
 ## 📂 Structure
