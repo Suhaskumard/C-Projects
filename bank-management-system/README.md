@@ -21,7 +21,7 @@ Simple yet **secure** Banking System in C. Users can create accounts, deposit, w
 - C + stdio/stdlib/string.h
 
 ## 📂 Structure
-```
+``` 
 bank-management-system/
 ├── bank.c          # Main secure app
 ├── README.md       # This file
