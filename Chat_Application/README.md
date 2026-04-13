@@ -5,7 +5,7 @@
 This project is a **real-time chat application** built using **C programming**, **TCP socket programming**, and **GTK for graphical user interface (GUI)**.
 It demonstrates client-server communication with a simple and interactive desktop interface.
 
----
+--- 
 
 ## 🚀 Features
 
