@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#define PORT 8080 
+#define PORT 8080  
 
 int sock;
 GtkWidget *text_view;
