@@ -21,7 +21,7 @@ const char *moves[MOVES] = {
    1  = win
   -1  = loss
    0  = draw
-*/
+*/ 
 int rules[MOVES][MOVES] = {
 /*          R   P   S   L   Sp */
  /* Rock */ { 0, -1,  1,  1, -1 },
