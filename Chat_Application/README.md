@@ -5,7 +5,7 @@
 This project is a **real-time chat application** built using **C programming**, **TCP socket programming**, and **GTK for graphical user interface (GUI)**.
 It demonstrates client-server communication with a simple and interactive desktop interface.
 
---- 
+---
 
 ## 🚀 Features
 
@@ -76,9 +76,9 @@ gcc client_gui.c `pkg-config --cflags --libs gtk+-3.0` -o client
 
 1. Install [MSYS2](https://www.msys2.org/)
 2. MSYS2 MinGW x64 terminal:
-
+   ```
 pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-gtk3 mingw-w64-x86_64-pkg-config
-   
+   ```
 3. **Port code to Winsock** (replace arpa/inet.h with winsock2.h, add WSAStartup etc.) or use WSL.
 
 ---
