@@ -6,3 +6,4 @@ The projects included highlight practical problem-solving skills, efficient use 
 
 Each project is designed with clarity and modularity in mind, ensuring readability and maintainability while solving meaningful problems. This collection serves as both a learning resource and a professional portfolio for academic and technical growth.
  
+ 
